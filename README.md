@@ -15,5 +15,5 @@
 </div>
 
 # INFORMATION
--• Check Current Stock Without Authentication.
--• Generate Accounts & Drain Paid Credits Without Authentication By: Discord User-ID
+- • Check Current Stock Without Authentication.
+- • Generate Accounts & Drain Paid Credits Without Authentication By: Discord User-ID
